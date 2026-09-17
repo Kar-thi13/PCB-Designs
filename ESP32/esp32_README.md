@@ -174,5 +174,6 @@ Suggestions, improvements, and corrections are welcome.
 
 If you find an issue with the design, please open an **Issue** with relevant details.
 
+---
 
 **ESP32 PCB Design • Schematic • PCB Layout • Libraries • 3D CAD • Electronics • IoT • Embedded Systems**
